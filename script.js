@@ -41,3 +41,6 @@ function showPano(ele) {
   });
   viewer.add(panorama);
 }
+
+//export the function
+export { showPano };

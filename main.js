@@ -6,6 +6,7 @@ import MousePosition from "ol/control/MousePosition";
 import * as coordinate from "ol/coordinate";
 import Overlay from "ol/Overlay";
 import { fromLonLat } from "ol/proj";
+import { showPano } from "./script";
 //import * as PANOLENS from "panolens";
 
 alert("CLick on the red labels");
