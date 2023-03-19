@@ -8,6 +8,8 @@ import Overlay from "ol/Overlay";
 import { fromLonLat } from "ol/proj";
 //import * as PANOLENS from "panolens";
 
+alert("CLick on the red labels");
+
 const coordinates = [
   [10.93376479, 50.98380407],
   [10.93377411, 50.98376802],

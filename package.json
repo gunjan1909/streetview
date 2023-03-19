@@ -11,6 +11,6 @@
   },
   "dependencies": {
     "ol": "latest",
-    "panolens": "^0.12.1"
+    "panolens": "^0.10.4"
   }
 }
